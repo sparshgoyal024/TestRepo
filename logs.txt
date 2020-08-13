@@ -1,0 +1,4 @@
+PHP Fatal error:  Uncaught Error: Class 'yii\db\ActiveRecord' not found in /Applications/MAMP/htdocs/whizlabs-labs-development-repo/common/models/test.php:12
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/whizlabs-labs-development-repo/common/models/test.php on line 12
